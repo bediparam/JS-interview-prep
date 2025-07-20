@@ -65,7 +65,7 @@ const PI = 3.14;
 const PI = 3.14159; // SyntaxError - cannot redeclare block-scope variable
 ```
 
-##Declaration without initialization and Reassigning
+## Declaration without initialization and Reassigning
 var and let variables can be declared without initialization and reassigned where as const needs to be initialized at the time of declaration and cannot be reassigned.
 
 ```javascript
